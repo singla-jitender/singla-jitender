@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Jitender 👋
 
-<!--
-**singla-jitender/singla-jitender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering student (Batch ’27)  
+💻 Interested in Python and software development  
+📊 Hands-on experience through academic projects and summer training  
+🚀 Focused on building strong problem-solving skills  
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- Python
+- Pandas
+- Basic Data Visualization
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- Expense Tracker with Data Visualization (Python)
+- Academic mini-projects for logic building
+
+### 🔗 Connect with me
+- LinkedIn:(https://www.linkedin.com/in/jitender-singla-75171428b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
